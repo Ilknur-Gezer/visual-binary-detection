@@ -9,7 +9,9 @@ We use stamp images of 27,730 sources from the Orion catalog, combining data fro
 Images from each survey are stacked across multiple filters (e.g., J/H/K for 2MASS, g/r/i/y/z for Pan-STARRS).
 High-resolution surveys (HST, JWST) resolve binaries clearly; lower-resolution surveys (e.g., 2MASS, ZTF) do not.
 ## Example images
-Clearly visible binary: Pan-STARRS / SDSS9
+![00222](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/00222.png?raw=true)
+Stacked images of 00222 from different surveys are displayed. From upper left to bottom right stacked images of
+2MASS, ZTF, neoWISER, unWISE, SDSS9, and PanSTARRS, respectively.
 
 
 Unresolved binary: 2MASS / ZTF
