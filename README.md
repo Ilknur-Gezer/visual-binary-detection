@@ -10,6 +10,8 @@ Images from each survey are stacked across multiple filters (e.g., J/H/K for 2MA
 High-resolution surveys (HST, JWST) resolve binaries clearly; lower-resolution surveys (e.g., 2MASS, ZTF) do not.
 ## Example images
 Clearly visible binary: Pan-STARRS / SDSS9
+
+
 Unresolved binary: 2MASS / ZTF
 See /examples/ folder for sample images demonstrating visible vs. unresolved binary sources.
 ## Data Annotation
