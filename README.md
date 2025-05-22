@@ -11,8 +11,8 @@ High-resolution surveys (HST, JWST) resolve binaries clearly; lower-resolution s
 Stacked images of 00222 from different surveys are displayed. From upper left to bottom right stacked images of
 2MASS, ZTF, neoWISER, unWISE, SDSS9, and PanSTARRS, respectively.
 
-![00222](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/00222.png?raw=true)
-
+#![00222](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/00222.png?raw=true)
+![00222](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/00022_V01.png)
 
 Stacked images of 22466 from different surveys are displayed. From upperleft to bottom right stacked images of
 2MASS, neoWISER, unWISE, skymapper, SDSS9, PanSTARRS, HST, and JWST, respectively.
