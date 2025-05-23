@@ -15,9 +15,10 @@ Stacked images of 00222 from different surveys are displayed. From upper left to
 ![00222](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/00022.png)
 
 Stacked images of 22466 from different surveys are displayed. From upperleft to bottom right stacked images of
-2MASS, neoWISER, unWISE, skymapper, SDSS9, PanSTARRS, HST, and JWST, respectively.
+2MASS, skymapper, SDSS9, PanSTARRS, HST, and JWST, respectively.
 
-![22466](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/22466.png?raw=true)
+
+![22466](https://github.com/Ilknur-Gezer/visual-binary-detection/blob/main/22466.png)
 
 
 ## Data Annotation
